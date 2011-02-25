@@ -1,0 +1,36 @@
+.music_box{
+	margin: 0 auto;
+	width: 780px;
+	padding-top: 20px;	
+}
+.music_title b{
+	font-size: 25px;
+	color: #222;
+	text-shadow: 2px 3px 2px #FFF;
+}
+.music_body {
+	border: 1px solid #F7BC84;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	-moz-box-shadow: 0px 0px 7px #F2E2D8;
+	-webkit-box-shadow: 0px 0px 7px #F2E2D8;
+}
+.music_info{
+	padding-left: 30px;	
+	color: #999;
+}
+.detail_info{
+	color: #36C;
+}	
+.music_download{
+	padding-left: 30px;
+}	
+.CDcover{
+	padding-top: 20px;	
+}
+.cd_background{
+	width: 231px;
+	height: 232px;
+	padding: 13px 0px 0px 32px;
+	background: url("/images/xiami/cd.png") no-repeat;
+}
